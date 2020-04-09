@@ -36,7 +36,7 @@ There's still plenty to do at the beaches too. If you come to a Washington beach
 ### Seattle
 If you find you way to this city, you'll be right on top of iconic locations such as __[Pike Place Market](http://pikeplacemarket.org/)__ and the __[Space Needle](https://www.spaceneedle.com/)__.
 
-![Seattle](img/seattle.JPG)
+![Seattle](img/seattle.jpg)
 ***Image found at https://en.wikipedia.org/wiki/Seattle***
 
 -but that's not all. Check out this list on Tripadvisor of some of the [best things to do in Seattle](https://www.tripadvisor.com/Attractions-g60878-Activities-Seattle_Washington.html)
@@ -51,4 +51,4 @@ If you find you way to this city, you'll be right on top of iconic locations suc
 - [ ] Visit Washington
 
 #### We hope to see you soon!
-##### ***Check out more at [kcroland.github.io](kcroland.github.io)***
+##### ***Check out more at [kcroland.github.io](https://kcroland.github.io/)***
