@@ -1,0 +1,21 @@
+
+.masthead h2 {
+  text-shadow: 2px 2px 5px black;
+}
+
+.btn-primary {
+  color: black;
+}
+
+.btn-primary:hover {
+  color: white;
+  background: #4e7b55;
+}
+
+nav a {
+  color: white;
+}
+
+nav {
+  background-color: #403f3f;
+}
