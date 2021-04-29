@@ -1,3 +1,5 @@
+_This project was made to practice bootsrap templartes, markdown, and git._
+
 # Visit Washington
 
 `echo Hello Washington!`
